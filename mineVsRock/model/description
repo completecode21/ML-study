@@ -11,10 +11,10 @@ The data set contains the response metrics for 60 separate sonar frequencies sen
 These frequencies are then labeled with the known object they were beaming the sound at (either a rock or a mine).
 name:-sonar.csv
 
-# operation(main file) is done in file name:-mine vs rock detecting
+# operation(main file) is done in file name:-mineVsRockDetecting.ipynb
 
 # Report
 all the profile report of the dataset is generate and
-saved in html format name:-pakinson's disease prediction using ml
+saved in html format name:-pakinson's disease prediction using ml.html
 # Model
 model is dump using joblib library find name:-model_jb
