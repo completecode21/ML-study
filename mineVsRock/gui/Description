@@ -1,1 +1,13 @@
 
+
+# operation(main file) is done in file name:-mineVsRockDetectingGui.ipynb
+
+# Model
+model is dumped using joblib library find name:-model_jb
+
+# testing(1st gui)
+for testing use sonartest in which save all your  testes(X) name:- sonartest.csv
+after that create a new file for saving the predicted results
+
+@testing(2nd gui(
+just you need any test file(X) no need to save
