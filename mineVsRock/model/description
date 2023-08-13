@@ -16,7 +16,7 @@ name:-sonar.csv
 # operation(main file) is done in file name:-mineVsRockDetecting.ipynb
 
 # Report
-all the profile report of the dataset is generate and
-saved in html format name:-pakinson's disease prediction using ml.html
+all the profile report of the dataset is generated and
+saved in HTML format name:-Parkinson's disease prediction using ml.html
 # Model
-model is dump using joblib library find name:-model_jb
+model is dumped using joblib library find name:-model_jb
